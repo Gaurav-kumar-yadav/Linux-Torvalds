@@ -1,0 +1,40 @@
+.card  {
+  height: 50vh;
+  width: 30vw;
+  border: 0.1em solid black;
+  overflow: hidden;
+}
+.card p {
+  height: 25vh;
+
+  margin: 1.6em;
+
+  background-image: url(Web_Dev_670f900667.jpg);
+  background-size: cover;
+}
+
+.para h3 {
+  height: 10vh;
+  
+  padding-left: 70px;
+  
+ 
+  
+}
+
+.footer span{
+    
+    
+    padding-left: 40px;
+    position:relative ;
+    bottom: 20px;
+}
+.footer button{
+    position: relative;
+   
+    left: 20px;
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+
